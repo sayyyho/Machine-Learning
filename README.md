@@ -2,8 +2,7 @@
 
 ## 무엇을 통해 학습하나요?
 
-> LGAimers
-> Udemy
+> LGAimers\nUdemy
 
 ## 데이터 전처리 (Part 1)
 
